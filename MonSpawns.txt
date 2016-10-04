@@ -1,0 +1,1 @@
+/setblock ~ ~ ~ mob_spawner 0 replace {SpawnData:{id:Zombie}}
